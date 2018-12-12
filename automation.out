@@ -1,0 +1,5 @@
+2018-12-12 22:09:06 INFO  TestBase:114 - loading config.properties
+2018-12-12 22:09:06 INFO  TestBase:119 - loading or.properties
+2018-12-12 22:09:06 INFO  TestBase:124 - loading homepage.properties
+2018-12-12 22:09:07 INFO  Excel_reader:19 - Creating excel object:-C:\GitProject\GitProject\hybridFramework\hybridFramework/src/main/java/com/hybridFramework/data/TestData.xlsx
+2018-12-12 22:09:10 INFO  Excel_reader:19 - Creating excel object:-C:\GitProject\GitProject\hybridFramework\hybridFramework/src/main/java/com/hybridFramework/data/TestData.xlsx
